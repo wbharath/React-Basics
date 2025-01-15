@@ -6,18 +6,18 @@ This is a simple React application that displays a list of tours fetched from a 
 
 ## Features
 
-React with Vite: Leveraging Vite for fast development and optimized builds.
-API Integration: Fetches data from a public API using the fetch function.
-Dynamic Rendering: Maps through API data to dynamically generate UI components.
-State Management: Manages application state using useState.
-Lifecycle Methods: Uses useEffect for fetching data on component mount.
-Reusable Components: Designed modular and reusable React components:
-App.jsx: The main application component.
-Tours.jsx: Handles rendering the list of tours.
-Tour.jsx: Represents individual tour details.
-Loading.jsx: Displays a loading indicator while data is fetched.
-Error Handling: Graceful error logging during API fetch.
-CSS Styling: Clean and responsive styling for components.
+- React with Vite: Leveraging Vite for fast development and optimized builds.
+- API Integration: Fetches data from a public API using the fetch function.
+- Dynamic Rendering: Maps through API data to dynamically generate UI components.
+- State Management: Manages application state using useState.
+- Lifecycle Methods: Uses useEffect for fetching data on component mount.
+- Reusable Components: Designed modular and reusable React components:
+- App.jsx: The main application component.
+- Tours.jsx: Handles rendering the list of tours.
+- Tour.jsx: Represents individual tour details.
+- Loading.jsx: Displays a loading indicator while data is fetched.
+- Error Handling: Graceful error logging during API fetch.
+- CSS Styling: Clean and responsive styling for components.
 
 ---
 
